@@ -15,9 +15,9 @@
 def speak_to_grandma(string)
   
   if string.downcase || string.capitalize
-    return HUH?! SPEAK UP, SONNY!
+    return "HUH?! SPEAK UP, SONNY!"
     elsif string.capitalize
-      return NO, NOT SINCE 1938!
+      return "NO, NOT SINCE 1938!"
     elsif string === " ILOVE YOU GRANDMA!"
       return "I LOVE YOU TOO PUMPKIN!"
   end

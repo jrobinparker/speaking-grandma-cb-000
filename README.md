@@ -1,4 +1,4 @@
-lear# Speak to Grandma
+# Speak to Grandma
 
 ## Objectives
 
